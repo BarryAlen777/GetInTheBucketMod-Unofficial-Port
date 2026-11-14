@@ -3,7 +3,7 @@
 
 # gitbm (Unofficial Fork)
 > ⚠️ **这是一个非官方修复分支，并非原作者官方版本**
-> 本仓库基于 [vladaviedov/gitbm](https://github.com/vladaviedov/gitbm) fork，仅用于修复原版存在的崩溃问题，**不新增额外功能**。
+> 本仓库基于 [vladaviedov/gitbm](https://github.com/vladaviedov/gitbm) fork，用于修复原版存在的崩溃问题。
 > 所有问题、bug 请在本仓库提交 issue，不要去原仓库打扰原作者。
 
 ## 🩹 本分支改动
